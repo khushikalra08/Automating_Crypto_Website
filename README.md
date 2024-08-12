@@ -49,8 +49,11 @@ Execute the cells in the notebook to perform data analysis, compute portfolio op
 ### Acknowledgments
 
 pypfopt: Provides tools for portfolio optimization.
+
 pandas: Utilized for data manipulation and cleaning.
+
 matplotlib: Used for generating visualizations.
+
 textblob: Applied for sentiment analysis.
 
 ### Contact
