@@ -59,3 +59,8 @@ textblob: Applied for sentiment analysis.
 ### Contact
 
 For any questions or comments, please reach out to [kalrak441@gmail.com].
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
